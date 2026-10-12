@@ -1,0 +1,6 @@
+[build]
+  base = "xiaohongshu-ai"
+  publish = "."
+
+[functions]
+  directory = "netlify/functions"
